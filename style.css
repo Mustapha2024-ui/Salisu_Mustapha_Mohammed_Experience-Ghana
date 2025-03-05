@@ -328,7 +328,7 @@ a .btn{
     height: 30vh;
     padding-top: 60px;
     padding-bottom: 30px;
-    background: linear-gradient(rgba(38, 3, 3, 0.619), rgba(38, 3, 3, 0.573)),url(images/bg-image2.jpg);
+    background: linear-gradient(rgba(38, 3, 3, 0.619), rgba(38, 3, 3, 0.573)),url(bg-image2.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -447,7 +447,7 @@ a .btn{
     height: 30vh;
     padding-top: 60px;
     padding-bottom: 30px;
-    background: linear-gradient(rgba(38, 3, 3, 0.619), rgba(38, 3, 3, 0.573)),url(images/bg-image2.jpg);
+    background: linear-gradient(rgba(38, 3, 3, 0.619), rgba(38, 3, 3, 0.573)),url(bg-image2.jpg);
     background-position: center;
     background-size: cover;
 }
