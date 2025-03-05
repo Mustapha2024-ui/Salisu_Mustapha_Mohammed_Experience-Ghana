@@ -18,28 +18,28 @@ body::-webkit-scrollbar{
 /* Font Styles */
 @font-face {
     font-family: HelveticaNowDisplay-ExtraBold;
-    src: url(fonts/HelveticaNowDisplay-ExtraBold.ttf);
+    src: url(HelveticaNowDisplay-ExtraBold.ttf);
     font-weight: 800;
     font-style: normal;
   }
 
   @font-face {
     font-family: HelveticaNowDisplay-Bold;
-    src: url(fonts/HelveticaNowDisplay-Bold.ttf);
+    src: url(HelveticaNowDisplay-Bold.ttf);
     font-weight: 700;
     font-style: normal;
   }
 
   @font-face {
     font-family: HelveticaNowDisplay-Regular;
-    src: url(fonts/HelveticaNowDisplay-Regular.ttf);
+    src: url(HelveticaNowDisplay-Regular.ttf);
     font-weight: 400;
     font-style: normal;
   }
 
   @font-face {
     font-family: HelveticaNowDisplay-Medium;
-    src: url(fonts/HelveticaNowDisplay-Medium.ttf);
+    src: url(HelveticaNowDisplay-Medium.ttf);
     font-weight: 500;
     font-style: normal;
   }
@@ -123,7 +123,7 @@ nav ul li a:hover{
     background-color: #dff4f5;
     padding-top: 60px;
     padding-bottom: 30px;
-    background-image: url(images/bg-image.jpeg);
+    background-image: url(bg-image.jpeg);
     background-position: center;
     background-size: cover;
 
@@ -626,39 +626,39 @@ a .btn{
 .tourist-card1{
     height: 450px;
     width: 600px;
-    background:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.61),rgba(0, 0, 0, 0.518)),url(/images/bg-image.jpeg);
+    background:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.61),rgba(0, 0, 0, 0.518)),url(bg-image.jpeg);
 }
 
 .site1{
     height: 450px;
     width: 600px;
-    background:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.61),rgba(0, 0, 0, 0.518)),url(images/kakum.png);
+    background:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.61),rgba(0, 0, 0, 0.518)),url(kakum.png);
 }
 .site2{
     height: 450px;
     width: 600px;
-    background:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.61),rgba(0, 0, 0, 0.518)),url(images/mole.png);
+    background:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.61),rgba(0, 0, 0, 0.518)),url(mole.png);
 }
 .site3{
     height: 450px;
     width: 600px;
-    background:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.61),rgba(0, 0, 0, 0.518)),url(images/larabanga.png);
+    background:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.61),rgba(0, 0, 0, 0.518)),url(larabanga.png);
 }
 .site4{
     height: 450px;
     width: 600px;
-    background:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.61),rgba(0, 0, 0, 0.518)),url(images/homowo.png);
+    background:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.61),rgba(0, 0, 0, 0.518)),url(homowo.png);
 }
 .site5{
     height: 450px;
     width: 600px;
-    background:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.61),rgba(0, 0, 0, 0.518)),url(images/yor.png);
+    background:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.61),rgba(0, 0, 0, 0.518)),url(yor.png);
 }
 
 .site6{
     height: 450px;
     width: 600px;
-    background:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.61),rgba(0, 0, 0, 0.518)),url(images/kente.png);
+    background:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.61),rgba(0, 0, 0, 0.518)),url(kente.png);
 }
 
 .tourist-card2{
